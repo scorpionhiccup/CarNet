@@ -11,3 +11,5 @@ def postInfo(request, signal_no, car_no):
 	new_entry.save()
 	return HttpResponse(str)
 
+
+#def getInfo(request, )
