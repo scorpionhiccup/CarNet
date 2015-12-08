@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sash/Documents/Sem_5/IOT/Project/CarNet/BTConApp/app/build/intermediates/exploded-aar/BTConApp/btconnectorlib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="620a9e27df48047786aed06e6dedfe85c4ac42d8">
+        <dex dex="/home/sash/Documents/Sem_5/IOT/Project/CarNet/BTConApp/app/build/intermediates/pre-dexed/debug/classes-0ebb925192987581a61c7413736ef7676110bbea.jar" />
+    </item>
+    <item
+        jar="/home/sash/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/sash/Documents/Sem_5/IOT/Project/CarNet/BTConApp/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-efa95955a012534b7426470d0d67722710e34de0.jar" />
+    </item>
+    <item
+        jar="/home/sash/Documents/Sem_5/IOT/Project/CarNet/BTConApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/sash/Documents/Sem_5/IOT/Project/CarNet/BTConApp/app/build/intermediates/pre-dexed/debug/classes-d89f93613c00cb763c449a5b8cc5f74765c6a70f.jar" />
+    </item>
+    <item
+        jar="/home/sash/Documents/Sem_5/IOT/Project/CarNet/BTConApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/sash/Documents/Sem_5/IOT/Project/CarNet/BTConApp/app/build/intermediates/pre-dexed/debug/classes-08464586a7503138d397f704c043273109094fb3.jar" />
+    </item>
+    <item
+        jar="/home/sash/Documents/Sem_5/IOT/Project/CarNet/BTConApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/sash/Documents/Sem_5/IOT/Project/CarNet/BTConApp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-7ba4620dc2332bf6ad3f62a0348fe4c2dac27483.jar" />
+    </item>
+
+</items>

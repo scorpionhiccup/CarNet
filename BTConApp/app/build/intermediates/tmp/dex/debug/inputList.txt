@@ -1,0 +1,6 @@
+/home/sash/Documents/Sem_5/IOT/Project/CarNet/BTConApp/app/build/intermediates/classes/debug
+/home/sash/Documents/Sem_5/IOT/Project/CarNet/BTConApp/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-efa95955a012534b7426470d0d67722710e34de0.jar
+/home/sash/Documents/Sem_5/IOT/Project/CarNet/BTConApp/app/build/intermediates/pre-dexed/debug/classes-0ebb925192987581a61c7413736ef7676110bbea.jar
+/home/sash/Documents/Sem_5/IOT/Project/CarNet/BTConApp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-7ba4620dc2332bf6ad3f62a0348fe4c2dac27483.jar
+/home/sash/Documents/Sem_5/IOT/Project/CarNet/BTConApp/app/build/intermediates/pre-dexed/debug/classes-08464586a7503138d397f704c043273109094fb3.jar
+/home/sash/Documents/Sem_5/IOT/Project/CarNet/BTConApp/app/build/intermediates/pre-dexed/debug/classes-d89f93613c00cb763c449a5b8cc5f74765c6a70f.jar
