@@ -1,7 +1,11 @@
 # CarNet
 CarNet - IoT Project
 
+:vertical_traffic_light: :car: :blue_car: :red_car: :blue_car: :car: :vertical_traffic_light:
+
 [![Project Concept Video](https://j.gifs.com/Rnq8LY.gif)](https://www.youtube.com/watch?v=YaGUMQTS-Yw)
+
+:vertical_traffic_light: :car: :blue_car: :red_car: :blue_car: :car: :vertical_traffic_light:
 
 ## Quick start
 1. For Web Server Installation & Running, refer to the [WebServer-Installation link](https://github.com/scorpionhiccup/CarNet/wiki/WebServer-Installation).
@@ -12,9 +16,9 @@ For Complete Documentation, refer to [Repository Wiki](https://github.com/scorpi
 
 ## Project Contributors:
 * Django WebServer: 
-   * Sharvil Katariya, [scorpionhiccup](http://github.com/scorpionhiccup)
+   * Sharvil Katariya, [scorpionhiccup](https://github.com/scorpionhiccup)
    * Saurabh Jain, [saurabhjain0007](https://github.com/saurabhjain0007)
 * Arduino: 
-    * Mostly Saurabh Jain [saurabhjain0007](https://github.com/saurabhjain0007).
+    * Mostly Saurabh Jain, [saurabhjain0007](https://github.com/saurabhjain0007)
 * Android: 
-    * Sharvil Katariya [scorpionhiccup](http://github.com/scorpionhiccup).
+    * Sharvil Katariya, [scorpionhiccup](https://github.com/scorpionhiccup)
