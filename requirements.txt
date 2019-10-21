@@ -27,7 +27,7 @@ pylint==1.4.3
 python-openid==2.2.5
 PyTumblr==0.0.6
 pytz==2015.2
-requests==2.6.0
+requests==2.20.0
 requests-oauthlib==0.4.2
 simplejson==3.6.5
 six==1.9.0
